@@ -2,6 +2,6 @@
 
 What Can I Say.
 
-`**TRASH WORLD FUCK YOU.**`
+**TRASH WORLD FUCK YOU.**
 
 
