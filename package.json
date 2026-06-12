@@ -8,6 +8,8 @@
     "check": "astro check",
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
+    "cf:preview": "astro build && wrangler dev",
+    "cf:deploy": "astro build && wrangler deploy",
     "astro": "astro",
     "type-check": "tsc --noEmit --isolatedDeclarations",
     "new-post": "node scripts/new-post.js",
@@ -70,7 +72,8 @@
     "@types/mdast": "^4.0.4",
     "@types/sanitize-html": "^2.16.0",
     "postcss-import": "^16.1.1",
-    "postcss-nesting": "^13.0.2"
+    "postcss-nesting": "^13.0.2",
+    "wrangler": "^4.100.0"
   },
   "packageManager": "pnpm@9.14.4"
 }

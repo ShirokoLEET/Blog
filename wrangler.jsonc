@@ -1,0 +1,13 @@
+{
+	"name": "fuwari",
+	"compatibility_date": "2026-06-12",
+	"routes": [
+		{
+			"pattern": "sayonara.world",
+			"custom_domain": true
+		}
+	],
+	"assets": {
+		"directory": "./dist"
+	}
+}
