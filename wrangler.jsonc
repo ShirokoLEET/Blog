@@ -3,7 +3,7 @@
 	"compatibility_date": "2026-06-12",
 	"routes": [
 		{
-			"pattern": "sayonara.world",
+			"pattern": "blog.sayonara.world",
 			"custom_domain": true
 		}
 	],
